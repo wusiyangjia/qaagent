@@ -1,0 +1,12 @@
+No.,Question,Requester,Request Time,Answer,Responder,Respond time
+1,"What time does flight AA123 from New York to Miami depart on June 20, 2024?",Alex,2025/6/1 9:00,"Flight AA123 is scheduled to depart at 14:45 EST on June 20, 2024.",Chris,2025/6/2 10:00
+2,"What was the closing price of Apple stock (AAPL) on May 15, 2023?",Chris,2025/6/5 14:30,"AAPL closed at $172.57 on May 15, 2023.",Ben,2025/6/5 15:30
+3,Is the Earth's average distance from the Sun about 150 million kilometers?,Alex,2025/6/17 10:00,Yes.,Ben,2025/6/17 10:30
+4,Who is the person in charge of the data project? Please provide their first name and last name.,Siyang,2025/6/24 16:02,,,
+5,"What was the opening price of Apple stock (AAPL) on May 15, 2023? Please provide the price.",Yang,2025/6/26 11:31,,,
+6,What is the capital of France? Please provide the city name.,Siyang,2025/6/26 12:10,The capital of France is Paris.,Alex,2025/6/28 11:11
+7,"What are the dimensions and weight of the product A? Please provide details on length, width, height, and weight.",Siyang,2025/6/26 12:11,"A product's length is 10 inches, width is 5 inches, height is 2 inches and weight is 2 pounds.",Alex,2025/6/28 15:31
+8,What is the boiling point of water at sea level? Please provide the temperature value.,Yuan,2025/6/26 12:21,,,
+9,"What are the system requirements for software B?",Siyang,2025-06-28 04:44:46,"Windows 10 or later, 8 GB ram and Intel i5 or equivalent CPU.",Ben,2025/6/29 10:30
+10,"What are the system requirements for software B? Please provide details on OS, RAM, processor, and storage.",Siyang,2025-07-02 15:49:59
+11,"What is the airspeed velocity of an unladen swallow? specifically the speed value.",Siyang,2025-07-02 16:11:51
